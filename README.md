@@ -6,7 +6,7 @@ Engineering (ICE), Pabna University of Science and Technology (PUST) in
 partial fulfillment of the requirement for the degree of Bachelor of Science in
 Engineering in Information and Communication Engineering.
 
-- You are requested to read the full paper If you have the time and interest (given in the repository).
+- **You are requested to read the full paper If you have the time and interest (given in the repository).**
 
 ## Documentation
 Done By:        
